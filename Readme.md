@@ -1,5 +1,7 @@
 # Olist E-Commerce Business Intelligence Dashboard
 
+![Dashboard](Dashboard/Page-6-Business-Insights.png)
+
 A professional Power BI Business Intelligence solution designed to analyze
 e-commerce sales performance, customer behavior, product performance,
 geographic concentration, and operational efficiency.
